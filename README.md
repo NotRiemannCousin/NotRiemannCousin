@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome 👋
 
 <!--
 **MarceloH1122/MarceloH1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![kg stats](https://github-readme-stats.vercel.app/api?username=MarceloH1122&show_icons=true&border_radius=30&bg_color=78d4de&text_color=15016e&title_color=0a022e)
+![kg stats](https://github-readme-stats.vercel.app/api?username=MarceloH1122&show_icons=true&border_radius=30&theme=radical)
 
-[![kg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloH1122&layout=compact&border_radius=30&bg_color=78d4de&text_color=15016e&title_color=0a022e)](https://github.com/anuraghazra/github-readme-stats)
+[![kg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloH1122&layout=compact&border_radius=30&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
 
