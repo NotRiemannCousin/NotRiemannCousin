@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <div>
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MarceloH1122&show_icons=true&border_radius=30&theme=radical">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=MarceloH1122&show_icons=true&border_radius=30&theme=radical">
 
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloH1122&border_radius=20&theme=radical">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloH1122&border_radius=20&theme=radical">
 
 </div>
 
