@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - Montes Claros -MG, Brasil
 
+- Conhecimento básico em c, c++, c#(com Unity, mais especificamente), java, smali, html, css e javascript.
+
 ##
 
 <div>
