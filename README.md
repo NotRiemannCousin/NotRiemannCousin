@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Sla...
 
-- Estudante do IFNMG - Campus Montes Claros (2° ano do curso de Informática integrado ao ensino médio)
+- Estudante do IFNMG - Campus Montes Claros (3° ano do curso de Informática integrado ao ensino médio)
 
 - Montes Claros -MG, Brasil
 
