@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sla...
+# Opa, bão?
+
+Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
 
 <a href="https://www.linkedin.com/in/marcelo-henrique-2327b423a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
-![gintoki perfeito](https://media.discordapp.net/attachments/798356705129136151/872684696222437377/babe3d02b30972968203d223f5f45b76.gif)
 
 ##
 ### Pretendo estudar...
