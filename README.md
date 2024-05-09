@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ##
 
-- Estudante do IFNMG - Campus Montes Claros (3° ano do curso de Informática integrado ao ensino médio)
+- Técnico em informática pelo IFNMG - Campus Montes Claros
 
-- Montes Claros -MG, Brasil
+- Uberlândia - MG, Brasil
 
-- Conhecimentos básicos/intermediários em C/C++, C#(.NET e Unity), Java, HTML, CSS e Javascript (somente frontend).
+- Conhecimentos intermediários em C/C++, C#(.NET e Unity), Java, HTML, CSS, Javascript (somente frontend) e PHP (Laravel).
 
 ##
 
