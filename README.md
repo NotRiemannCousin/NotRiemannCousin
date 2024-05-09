@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - Técnico em informática pelo IFNMG - Campus Montes Claros
 
+- Estudante de Ciência da Computação 1/10 na UFU - Universidade Federal de Uberlândia
+
 - Uberlândia - MG, Brasil
 
 - Conhecimentos intermediários em C/C++, C#(.NET e Unity), Java, HTML, CSS, Javascript (somente frontend) e PHP (Laravel).
