@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Opa, bão?
+# Opa, eaí?
 
 Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
 
@@ -24,7 +24,7 @@ Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou es
 
 - Técnico em informática pelo IFNMG - Campus Montes Claros
 
-- Estudante de Ciência da Computação 1/10 na UFU - Universidade Federal de Uberlândia
+- Estudante de Ciência da Computação 1/8 na UFU - Universidade Federal de Uberlândia
 
 - Uberlândia - MG, Brasil
 
