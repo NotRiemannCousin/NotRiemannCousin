@@ -21,7 +21,7 @@ Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou es
 </a>
 <a
 href="https://youtube.com/@dioitadori">
-src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=YouTube&logoColor=white">
+<img src="https://img.shields.io/badge/Youtube-E62712?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
 ##
