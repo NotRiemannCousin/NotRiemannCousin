@@ -19,6 +19,10 @@ Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou es
 <a href="https://www.linkedin.com/in/marcelo-henrique-2327b423a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a
+href="https://youtube.com/@dioitadori">
+src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
 
 ##
 
