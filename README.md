@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Opa, eaí?
+# Olá
 
 Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
 
