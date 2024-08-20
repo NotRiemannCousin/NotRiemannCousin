@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Olá
 
-Meu nome é Marcelo Henrique, sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
+Sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
 
 <a href="https://www.linkedin.com/in/marcelo-henrique-2327b423a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
