@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 # Olá
 
-Sou técnico em informática e atualmente estou estudando desenvolvimento mobile e programação competitiva com foco na OBI. Sou amante de xadrez, matemática e musica. Game Dev quando nas horas vagas.
+Tenho curso técnico em informática e atualmente estou cursando Ciencia da Computação. Venho estudando principalmente programação competitiva com foco na OBI e SBC, porém tenho outras areas de interesse como desenvolvimento de jogos (Game Dev quando nas horas vagas). Sou amante de xadrez, matemática e musica.
+
+
+<img src="https://img1.picmix.com/output/stamp/normal/8/8/4/3/1773488_a4076.gif">
 
 <a href="https://www.linkedin.com/in/marcelo-henrique-2327b423a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,11 +31,11 @@ href="https://youtube.com/@dioitadori">
 
 - Técnico em informática pelo IFNMG - Campus Montes Claros
 
-- Estudante de Ciência da Computação 1/8 na UFU - Universidade Federal de Uberlândia
+- Estudante de Ciência da Computação na UFU - Universidade Federal de Uberlândia
 
 - Uberlândia - MG, Brasil
 
-- Conhecimentos intermediários em C/C++, C#(.NET e Unity), Java, HTML, CSS, Javascript (somente frontend) e PHP (Laravel).
+- Conhecimentos intermediários em C/C++, C#(.NET e Unity), HTML, CSS, Javascript (somente frontend) e PHP (Laravel).
 
 ##
 
@@ -42,13 +45,10 @@ href="https://youtube.com/@dioitadori">
 
 
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRiemannCousin&border_radius=20&theme=radical">
-
 </div>
 
 ##
-
-##
-### Pretendo estudar...
+### Tecnologias de estudo
 <div>
 
 <img height="18cm" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
