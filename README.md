@@ -19,9 +19,11 @@ Tenho curso técnico em informática e atualmente estou cursando Ciencia da Comp
 
 <img src="https://img1.picmix.com/output/stamp/normal/8/8/4/3/1773488_a4076.gif">
 
+<!---
 <a href="https://www.linkedin.com/in/marcelo-henrique-2327b423a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+--->
 <a
 href="https://youtube.com/@dioitadori">
 <img src="https://img.shields.io/badge/Youtube-E62712?style=for-the-badge&logo=YouTube&logoColor=white">
