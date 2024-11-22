@@ -31,6 +31,8 @@ href="https://youtube.com/@dioitadori">
 
 ##
 
+
+- (not) <a href="https://youtube.com/@dioitadori"> Professional Leetcoder </a>
 - Técnico em informática pelo IFNMG - Campus Montes Claros
 
 - Estudante de Ciência da Computação na UFU - Universidade Federal de Uberlândia
