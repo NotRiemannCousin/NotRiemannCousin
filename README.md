@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, meu nome é Marcelo
+# Olá
 
 Tenho curso técnico em informática e atualmente estou cursando Ciencia da Computação. Venho estudando principalmente programação competitiva com foco na OBI e SBC, porém tenho outras areas de interesse como desenvolvimento de jogos (Game Dev quando nas horas vagas). Sou amante de xadrez, matemática e musica.
 
