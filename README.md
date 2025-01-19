@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Olá
 
-Tenho curso técnico em informática e atualmente estou cursando Ciencia da Computação. Venho estudando principalmente programação competitiva com foco na OBI e SBC, porém tenho outras areas de interesse como desenvolvimento de jogos (Game Dev quando nas horas vagas). Sou amante de xadrez, matemática e musica.
+Tenho curso técnico em informática e atualmente estou cursando Ciencia da Computação. Venho estudando principalmente programação competitiva com foco na OBI e SBC, porém tenho outras areas de interesse como desenvolvimento de jogos. Sou amante de xadrez, matemática e musica.
 
 
 <img src="https://img1.picmix.com/output/stamp/normal/8/8/4/3/1773488_a4076.gif">
