@@ -25,7 +25,7 @@ Tenho curso técnico em informática e atualmente estou cursando Ciencia da Comp
 </a>
 --->
 <a
-href="https://youtube.com/@dioitadori">
+href="https://youtube.com/@lastarchimedes">
 <img src="https://img.shields.io/badge/Youtube-E62712?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
