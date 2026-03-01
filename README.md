@@ -32,7 +32,7 @@ href="https://youtube.com/@lastarchimedes">
 ##
 
 
-- (not) <a href="https://leetcode.com/u/MHVS1122/"> Professional Leetcoder </a>
+- (not) <a href="https://leetcode.com/u/LastArchemides/"> Professional Leetcoder </a>
 - Técnico em informática pelo IFNMG - Campus Montes Claros
 
 - Estudante de Ciência da Computação na UFU - Universidade Federal de Uberlândia
